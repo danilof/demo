@@ -1,8 +1,6 @@
 {
   "/token": {
-    "get": {
       "IsValid": true,
       "Token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJSRVNUQ2xpZW50Iiwicm9sZXMiOiJzdGFuZGFyZCxhZG1pbiJ9.RZSTNyfa5WO7tgbiY5TOqBxEPpebJ3lY-n4VNPtt3kA"
-    }
   }
 }
