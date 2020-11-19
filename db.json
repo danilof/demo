@@ -14,7 +14,6 @@
     }
   },
   "bk1":{
-    "get":{
       "result":[
         {
           "id":2000001,
@@ -41,7 +40,7 @@
           "RecipientTitle":"Gambit trade d.o.o."
         },
         {
-          "id":2000002,
+          "id":2000003,
           "DocumentNumber":"2000003",
           "DocumentDate":"2020-09-01",
           "Partner":"0002",
@@ -53,7 +52,7 @@
           "RecipientTitle":"Gambit trade d.o.o."
         },
         {
-          "id":2000002,
+          "id":2000004,
           "DocumentNumber":"2000004",
           "DocumentDate":"2020-09-01",
           "Partner":"0001",
@@ -65,7 +64,7 @@
           "RecipientTitle":"OPAL INFORMATIKA d.o.o."
         },
         {
-          "id":2000002,
+          "id":2000005,
           "DocumentNumber":"2000005",
           "DocumentDate":"2020-10-22",
           "Partner":"0001",
@@ -77,7 +76,7 @@
           "RecipientTitle":"OPAL INFORMATIKA d.o.o."
         },
         {
-          "id":2000002,
+          "id":2000006,
           "DocumentNumber":"2000006",
           "DocumentDate":"2020-10-22",
           "Partner":"0001",
@@ -89,7 +88,7 @@
           "RecipientTitle":"OPAL INFORMATIKA d.o.o."
         },
         {
-          "id":2000002,
+          "id":2000007,
           "DocumentNumber":"2000007",
           "DocumentDate":"2020-10-22",
           "Partner":"0001",
@@ -101,7 +100,7 @@
           "RecipientTitle":"OPAL INFORMATIKA d.o.o."
         },
         {
-          "id":2000002,
+          "id":2000008,
           "DocumentNumber":"2000008",
           "DocumentDate":"2020-10-22",
           "Partner":"0001",
@@ -113,7 +112,7 @@
           "RecipientTitle":"OPAL INFORMATIKA d.o.o."
         },
         {
-          "id":2000002,
+          "id":2000009,
           "DocumentNumber":"2000009",
           "DocumentDate":"2020-10-22",
           "Partner":"0001",
@@ -125,7 +124,7 @@
           "RecipientTitle":"OPAL INFORMATIKA d.o.o."
         },
         {
-          "id":2000002,
+          "id":2000010,
           "DocumentNumber":"2000010",
           "DocumentDate":"2020-10-22",
           "Partner":"0001",
@@ -137,7 +136,7 @@
           "RecipientTitle":"OPAL INFORMATIKA d.o.o."
         },
         {
-          "id":2000002,
+          "id":2000011,
           "DocumentNumber":"2000011",
           "DocumentDate":"2020-10-22",
           "Partner":"0001",
@@ -149,7 +148,7 @@
           "RecipientTitle":"OPAL INFORMATIKA d.o.o."
         },
         {
-          "id":2000002,
+          "id":2000012,
           "DocumentNumber":"2000012",
           "DocumentDate":"2020-10-22",
           "Partner":"0001",
@@ -161,7 +160,7 @@
           "RecipientTitle":"OPAL INFORMATIKA d.o.o."
         },
         {
-          "id":2000002,
+          "id":2000013,
           "DocumentNumber":"2000013",
           "DocumentDate":"2020-10-26",
           "Partner":"0012",
@@ -173,7 +172,7 @@
           "RecipientTitle":"test_test"
         },
         {
-          "id":2000002,
+          "id":2000014,
           "DocumentNumber":"2000014",
           "DocumentDate":"2020-10-26",
           "Partner":"0012",
@@ -185,7 +184,7 @@
           "RecipientTitle":"test_test"
         }
       ]
-    }
+
   },
   "bk2":{
     "get":{
