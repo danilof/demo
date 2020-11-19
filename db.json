@@ -1,19 +1,9 @@
 {
   "token":{
-    "get":{
       "IsValid":true,
       "Token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJSRVNUQ2xpZW50Iiwicm9sZXMiOiJzdGFuZGFyZCxhZG1pbiJ9.RZSTNyfa5WO7tgbiY5TOqBxEPpebJ3lY-n4VNPtt3kA"
     },
-    "post":{
-      "data":[
-        {
-          "id":1,
-          "name":"Steve French"
-        }
-      ]
-    }
-  },
-  "bk1":[
+  "customerorders":[
         {
           "id":2000001,
           "DocumentNumber":"2000001",
@@ -185,9 +175,7 @@
       ]
 
   ,
-  "bk2":{
-    "get":{
-      "result":[
+  "customerorders_2000004":[
         {
           "DocumentNumber":"2000004",
           "DocumentDate":"2020-09-01",
@@ -202,14 +190,4 @@
           "Quantity":1
         }
       ]
-    },
-    "post":{
-      "data":[
-        {
-          "id":1,
-          "name":"Steve French"
-        }
-      ]
-    }
-  }
 }
